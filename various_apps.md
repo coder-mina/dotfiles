@@ -67,3 +67,5 @@ I am building my personal preferences with these experiences.
 
 # 6. Etc
 * Karabiner: to customize keyboard mappings.(usage: when you want to use mechanical/non-contact type keyboard with windows key mappings for your mac)
+   * left option - left command, left command - left option
+   * right option - right command, right command - right option
