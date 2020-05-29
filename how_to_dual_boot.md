@@ -6,5 +6,5 @@
     * 준비한 usb를 노트북에 꽂은 상태에서 bios 모드로 진입 (컴퓨터마다 다른데, LG 그램의 경우, 부팅시 F2 키를 연타하면 됨)
     * booting 선택 -> 부팅 순서를 USB가 1순위가 되도록 수정하고 부팅 시작
     * Ubuntu 설치시 Installation type에서 Intall Ubuntu alongside Windows Boot Manager 선택하면 듀얼 부팅 모드로 만들 수 있음.
-    (https://www.itzgeek.com/how-tos/linux/ubuntu-how-tos/how-to-install-ubuntu-18-04-alongside-with-windows-10-or-8-in-dual-boot.html)
-    (Something else를 선택해 파티션 사이즈를 직접 설정해줄 수도 있겠지만 나는 그럴 필요성은 느끼지 못해 installer가 파티션을 알아서 해주는 옵션으로 선택한 것)
+        * [ref](https://www.itzgeek.com/how-tos/linux/ubuntu-how-tos/how-to-install-ubuntu-18-04-alongside-with-windows-10-or-8-in-dual-boot.html)
+        * Something else를 선택해 파티션 사이즈를 직접 설정해줄 수도 있겠지만 나는 그럴 필요성은 느끼지 못해 installer가 파티션을 알아서 해주는 옵션으로 선택함.
