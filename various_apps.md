@@ -3,7 +3,19 @@ These are personal preferences.
 I am building my personal preferences with these experiences.
 
 # 1. Note Apps
+## 1-0. What I want
+- Great search functionality. (search over multiple files.)
+- Free.
+- What you see is what you get. (Toggle source mode and rendered mode.)
+- Sync between devices. (Or use Github?)
+- Hyperlink should be maintained when you export to pdf.
+
 ## 1-1. Typora
+* `command + /`  (Toggle source mode.)
+* `shift + command + L` (Toggle file tree.)
+* Search functionality github issue (https://github.com/typora/typora-issues/issues/651)
+* `open -a typora **.md` (Open markdown file in Typora from command line.)
+
 * tips:
    * command + click => open url link
    * can use icloud drive to sync between devices
@@ -46,6 +58,11 @@ I am building my personal preferences with these experiences.
 ## 1-5. Notable
 * downside:
    * you can't edit in the preview mode.
+
+## 1-6. Etc
+- Boostnote: Link is not maintained when exported to pdf.
+- MacDown
+- https://www.slant.co/options/2813/alternatives/~typora-alternatives
 
 # 2. Diary Apps
 ## 2-1. Diarly
