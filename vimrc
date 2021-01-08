@@ -1,4 +1,4 @@
-set mouse=a
+set mouse=a                " to turn off, :set mouse= (this enables copying to local clipboard)
 set t_Co=256
 set shiftwidth =4          " number of spaces to use for each step of indent
 set tabstop    =4          " number of spaces that a <Tab> in the file counts for
