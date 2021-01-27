@@ -84,6 +84,16 @@ I am building my personal preferences with these experiences.
 
 # 5. Code Editors
 ## 5-1. VS Code
+| option + right/left              | jump by word               | ref |
+| -------------------------------- | -------------------------- | --- |
+| shift + cmd + [, shift + cmd + ] | fold/unfold a block region |     |
+| cmd + shift + p                  | enter command palette      |     |
+
+- https://code.visualstudio.com/docs/getstarted/keybindings
+- table extension: https://marketplace.visualstudio.com/items?itemName=RomanPeshkov.vscode-text-tables
+
+
+
 ## 5-2. Atom
 ## 5-3. Sublime Text
 ## 5-4. vim
