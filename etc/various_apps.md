@@ -63,6 +63,13 @@ I am building my personal preferences with these experiences.
 - Boostnote: Link is not maintained when exported to pdf.
 - MacDown
 - https://www.slant.co/options/2813/alternatives/~typora-alternatives
+- Mark Text
+  - shift + tab: unindent
+  - tab: indent
+  - indent multiple items at once: not yet implemented (Allow to indent multiple list items by tab · Issue #1685 · marktext/marktext · GitHub)
+
+
+
 
 # 2. Diary Apps
 ## 2-1. Diarly
